@@ -1,6 +1,10 @@
 # WordAnalytics
 
-**WordAnalytics** is a web application designed for analyzing and visualizing text data. It provides insights into word frequency, distribution, and other text-based metrics to help users understand and interact with their textual data effectively.
+WordAnalytics is a React-based application built with Vite, designed to analyze and optimize text for social media use. Utilizing a clean, component-based architecture, the application offers the following features:
+
+Text Input and Analysis: Users can input text to see real-time analysis of character and word counts.
+Social Media Optimization: Provides insights on how long the text can be for Instagram and Facebook, based on their respective character limits.
+With a focus on clean code and an intuitive user interface, WordAnalytics helps users craft text that fits within social media constraints, making it a useful tool for creating optimized content.
 
 ## Demo
 
